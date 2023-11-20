@@ -21,6 +21,9 @@
 
 <br />
 
+## Before Starting App
+### `npm install`
+
 ## Available Scripts
 ### `npm start`
 
