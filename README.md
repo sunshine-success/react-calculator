@@ -24,7 +24,10 @@
 ## Before Starting App
 ### `npm install`
 
-Installs all essential node modules.<br />
+Installs all essential node modules.
+
+<br />
+
 
 ## Available Scripts
 ### `npm start`
